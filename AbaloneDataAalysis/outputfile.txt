@@ -1,0 +1,72 @@
+
+QUARTILES
+\First Quartile Values
+sex               0.0000
+length            0.4500
+diameter          0.3500
+height            0.1150
+whole_weight      0.4415
+shucked_weight    0.1860
+viscera_weight    0.0935
+shell_weight      0.1300
+predicted_age     9.5000
+Third Quartile Values
+sex                2.000
+length             0.615
+diameter           0.480
+height             0.165
+whole_weight       1.153
+shucked_weight     0.502
+viscera_weight     0.253
+shell_weight       0.329
+predicted_age     12.500
+RANGE AND VARIANCE
+
+Range:
+sex                2.0000
+length             0.7400
+diameter           0.5950
+height             1.1300
+whole_weight       2.8235
+shucked_weight     1.4870
+viscera_weight     0.7595
+shell_weight       1.0035
+predicted_age     28.0000
+Variance:
+sex                0.634269
+length             0.014422
+diameter           0.009849
+height             0.001750
+whole_weight       0.240481
+shucked_weight     0.049268
+viscera_weight     0.012015
+shell_weight       0.019377
+predicted_age     10.395266
+AAD & MAD
+
+sex:
+AAD: 0.44327553885182075MAD: 0.10616914053148202
+
+length:
+AAD: 0.44327553885182075MAD: 0.10616914053148202
+
+diameter:
+AAD: 0.44327553885182075MAD: 0.10616914053148202
+
+height:
+AAD: 0.44327553885182075MAD: 0.10616914053148202
+
+whole_weight:
+AAD: 0.44327553885182075MAD: 0.10616914053148202
+
+shucked_weight:
+AAD: 0.44327553885182075MAD: 0.10616914053148202
+
+viscera_weight:
+AAD: 0.44327553885182075MAD: 0.10616914053148202
+
+shell_weight:
+AAD: 0.44327553885182075MAD: 0.10616914053148202
+
+num_of_rings:
+AAD: 0.44327553885182075MAD: 0.10616914053148202
